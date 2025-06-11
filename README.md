@@ -1,4 +1,4 @@
-# SK-tree
+# SK - Tree
 
 Python Course - star tree assignment 
 
